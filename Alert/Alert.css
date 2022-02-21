@@ -1,0 +1,11 @@
+.alert-bg{
+    background-color: #FF6464;
+    width: 90%;
+    margin: auto;
+}
+
+.alert-bg .alert-txt{
+    font-size: 1.25rem;
+    text-align: center;
+    padding: 1rem 0;
+}
