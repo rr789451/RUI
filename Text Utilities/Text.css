@@ -1,0 +1,17 @@
+.txt-heading{
+    font-size: 3rem;
+}
+
+.txt-small{
+    font-size: 0.8rem;
+}
+
+.txt-gray{
+    font-size: 1.2rem;
+    color: gray;
+}
+
+.txt-center{
+    font-size: 1.2rem;
+    text-align: center;
+}
