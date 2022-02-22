@@ -1,0 +1,47 @@
+.card-bg{
+    width: 15vw;
+    height: 30vh;
+    background-color: #FFE6AB;
+    margin: 1rem;
+}
+
+.card-bg .card-badge{
+    padding: 5px;
+    background-color: #65C18C;
+    width: 3vw;
+    margin-left: 13vw;
+}
+
+.card-bg .card-dismiss{
+    font-size: 1.2rem;
+    margin-left: 13.5vw;
+}
+
+.card-txt{
+    font-size: 1.5rem;
+    text-align: center;
+}
+
+.card-txt-overlay{
+    font-size: 1.2rem;
+    text-align: center;
+    background-color: gray;
+    width: 90%;
+    height: 100%;
+    margin: auto;
+}
+
+.card-bg-horizontal{
+    width: 30vw;
+    height: 15vh;
+    background-color: #FFE6AB;
+    margin: 1rem;
+}
+
+.card-bg-shadow{
+    width: 15vw;
+    height: 30vh;
+    background-color: #FFE6AB;
+    margin: 1rem;
+    box-shadow: 3px 3px rgba(0, 0, 0, 0.3);
+}
