@@ -1,0 +1,12 @@
+.badge-bg img{
+    width: 2rem;
+    height: 2rem;
+    margin: 1rem;
+}
+
+.badge-bg .badge-txt{
+    position: absolute;
+    background-color: #65C18C;
+    padding: 2px 5px;
+    margin-left: 2vw;
+}
