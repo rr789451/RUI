@@ -1,0 +1,10 @@
+.img-responsive{
+    width: 25%;
+    height: 25%;
+}
+
+.img-rounded{
+    width: 25%;
+    height: 25%;
+    border-radius: 50%;
+}

@@ -1,0 +1,39 @@
+.btn-primary{
+    border: none;
+    padding: 0.5rem 1.5rem;
+    background-color: #65C18C;
+    color: #fff;
+    border-radius: 2px;
+    cursor: pointer;
+}
+
+.btn-secondary{
+    padding: 0.5rem 1.5rem;
+    color: #65C18C;
+    border-radius: 2px;
+    background-color: #fff;
+    border: 1px solid #65C18C;
+    cursor: pointer;
+}
+
+.btn-icon{
+    padding: 0.3rem 1.5rem;
+    background-color: #65C18C;
+    color: #fff;
+    border: none;
+}
+
+.btn-icon img{
+    display: inline;
+    width: 1rem;
+}
+
+.btn-floating{
+    width: 2rem;
+    border: none;
+    border-radius: 50%;
+    padding: 0.5rem 0.5rem;
+    background-color: #65C18C;
+    color: #fff;
+    position: fixed;
+}
